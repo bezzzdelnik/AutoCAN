@@ -1,0 +1,8 @@
+{
+  "platformio-ide.useBuiltinPIOCore": false,
+  "platformio-ide.useBuiltinPython": false,
+  "platformio-ide.disablePIOHomeStartup": true,
+  "platformio-ide.customPATH": "C:\\Users\\Aleksey\\.platformio\\penv\\Scripts;C:\\Users\\Aleksey\\AppData\\Local\\Programs\\Python\\Python312;C:\\Users\\Aleksey\\AppData\\Local\\Programs\\Python\\Python312\\Scripts",
+  "python.defaultInterpreterPath": "C:\\Users\\Aleksey\\.platformio\\penv\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": false
+}
